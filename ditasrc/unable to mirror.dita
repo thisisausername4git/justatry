@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="unable_to_mirror">
+    <title>unable to mirror/不能投屏</title>
+    <troublebody>
+        <condition>
+            <title>Condition</title>
+            <p>iPad无法找到需要投屏的设备。</p>
+        </condition>
+        <troubleSolution>
+            <cause>
+                <title>Cause</title>
+                <p>设备不在同一局域网内。</p>
+            </cause>
+            <remedy>
+                <title>Remedy</title>
+                <responsibleParty>IT Center</responsibleParty>
+                <steps>
+                    <step>
+                        <cmd>找到<uicontrol>设置</uicontrol><uicontrol>wifi</uicontrol>，检查wifi名称是否一致。</cmd>
+                    </step>
+                    <step>
+                        <cmd>如果不一致，选择一个共同的wifi加入。</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting>

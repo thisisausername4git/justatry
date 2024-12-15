@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_htmi">
+    <title>what is HTMI</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>HDMI线是高清晰多媒体接口线的缩写，能高品质地传输未经压缩的高清视频和多声道音频数据，最高数据传输速度为5Gbps。同时无需在信号传送前进行数/模或者模/数转换，可以保证最高质量的影音信号传送。HDMI线支持5Gbps的<xref
+                href="https://baike.baidu.com/item/%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93%E7%8E%87/603683?fromModule=lemma_inlink"
+                format="html" scope="external">数据传输率</xref>，最远可传输30米，足以应付一个1080p的视频和一个8声道的<xref
+                href="https://baike.baidu.com/item/%E9%9F%B3%E9%A2%91%E4%BF%A1%E5%8F%B7/3431469?fromModule=lemma_inlink"
+                format="html" scope="external"
+                >音频信号</xref>。而因为一个1080p的视频和一个8声道的音频信号需求少于4GB/s，因此HDMI线还有很大余量。这允许它可以用一个电缆分别连接DVD播放器，接收器和PRR。此外HDMI支持EDID，DDC2B，因此具有HDMI的设备具有“即插即用”的特点，信号源和显示设备之间会自动进行“协商”，自动选择最合适的视频/音频格式。<image
+                href="image/68d4e90b4c6ddab4ec846434f1868498.jpg" id="image_gxx_qzx_3dc" width="100"
+            /></p>
+    </conbody>
+</concept>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="connecting_with_htmi">
+    <title>使用HTMI线进行投屏 / connecting with HTMI</title>
+    <shortdesc>使用HTMI线可以实现稳定与高清晰度的投屏</shortdesc>
+    <taskbody>
+        <prereq id="prereq_zcd_rxx_3dc">需要准备Type-C线转HTMI转接头</prereq>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>将HTMI线与转接头相连</cmd>
+                <info>注意HTMI线接口的朝向</info>
+                <stepresult><image href="image/4250bd952e3f1dd9fd9be0cbdea8fd71.jpg"
+                        id="image_vmw_dzx_3dc" width="100"/></stepresult>
+            </step>
+            <step>
+                <cmd>将转接Type-C端口与iPad的Type-C端口相连</cmd>
+            </step>
+            <step>
+                <cmd>将控制台的信号输入源切换为笔记本输入</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

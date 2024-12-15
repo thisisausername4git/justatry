@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_tk2_lzy_gdc">
+    <title>what is Airplay</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p></p>
+        <p><b>隔空播放</b>（英语：AirPlay）是<xref
+                href="https://baike.baidu.com/item/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8/304038?fromModule=lemma_inlink"
+                format="html" scope="external">苹果公司</xref>的在<xref
+                href="https://baike.baidu.com/item/iOS4.2/9322393?fromModule=lemma_inlink"
+                format="html" scope="external">iOS4.2</xref>及OS X Mountain Lion中加入的一种播放技术，可以将<xref
+                href="https://baike.baidu.com/item/iOS/45705?fromModule=lemma_inlink" format="html"
+                scope="external">iOS</xref>和<xref
+                href="https://baike.baidu.com/item/OS%20X%20Mountain%20Lion/2974126?fromModule=lemma_inlink"
+                format="html" scope="external">OS X Mountain
+                Lion</xref>或更新版上的文件（包括视频、照片和镜像）传送到支持隔空播放的设备（如：<xref
+                href="https://baike.baidu.com/item/HomePod/20835431?fromModule=lemma_inlink"
+                format="html" scope="external">HomePod</xref>和<xref
+                href="https://baike.baidu.com/item/Apple%20TV/4035034?fromModule=lemma_inlink"
+                format="html" scope="external">Apple TV</xref>）。</p>
+    </conbody>
+</concept>

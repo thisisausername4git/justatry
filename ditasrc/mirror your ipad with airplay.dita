@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_hq1_zzy_gdc">
+    <title>mirror your iPad with Airplay/如何使用Airplay将iPad投屏至投影仪</title>
+    <shortdesc>介绍通过Airplay的方法将iPad投屏。</shortdesc>
+    <taskbody>
+        <prereq id="prereq_ih2_t1z_gdc">确保iPad与投影仪处于同一局域网内。</prereq>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>从iPad屏幕的右上角向下轻扫，打开控制中心，如图所示。</cmd>
+                <info><image href="image/WechatIMG40.jpg" id="image_my2_mbz_gdc" width="600"
+                    /></info>
+            </step>
+            <step>
+                <cmd>点击<uicontrol>屏幕镜像</uicontrol><image href="image/WechatIMG41.jpg"
+                        id="image_fyb_zbz_gdc" width="20"/>。</cmd>
+            </step>
+            <step>
+                <cmd>在弹出的可选投屏设备中选择所需屏幕，并按<uicontrol>确定</uicontrol>按钮。</cmd>
+                <stepresult>屏幕可以成功复制。</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+   
+</task>
