@@ -1,0 +1,2 @@
+# justatry
+My first repository
